@@ -82,7 +82,7 @@ Be careful of AOEs from the **Angelics**, and dont let any vex near your conduit
 
 ### Map
 
-![Map: Garden Of Salvation, Encounter 2](/url "gos-encounter-2-map")
+![Map: Garden Of Salvation, Encounter 2](gos-encounter-2-map.png)
 
 ## Encounter 3: Defeat the Consecrated Mind – Undergrowth
 
@@ -122,7 +122,7 @@ The player who gets captured is responsible for callouts. If the eyes aren't sho
 
 ### Map
 
-![Map: Garden Of Salvation, Encounter 3](/url "gos-encounter-3-map")
+![Map: Garden Of Salvation, Encounter 3](gos-encounter-3-map.png)
 
 
 ## Encounter 4: Defeat the Sanctified Mind
@@ -140,7 +140,7 @@ Deal damage to Sanctified Mind and repeat the above steps
 
 ### Map
 
-![Map: Garden Of Salvation, Encounter 4](/url "gos-encounter-4-map")
+![Map: Garden Of Salvation, Encounter 4](gos-encounter-4-map.png)
 
 #### Map key:
 
